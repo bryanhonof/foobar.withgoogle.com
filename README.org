@@ -1,0 +1,11 @@
+#+TITLE: Readme
+
+* foo.bar
+
+My solutions to Google's invite only code coding challenge.
+
+* Lessons learned
+
+- Educate myself before starting on a program
+- Try to find mathematical models
+- Keep it simple, stupid
