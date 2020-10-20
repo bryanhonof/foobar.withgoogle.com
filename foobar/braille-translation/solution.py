@@ -40,6 +40,4 @@ def solution(s):
             ret += translation_dict[c.lower()]
         else:
             ret += translation_dict[c]
-    print(s)
-    print(ret)
     return ret
