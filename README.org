@@ -1,5 +1,6 @@
 #+TITLE: Readme
 
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[./assets/foobar.svg]]
 
 * foo.bar
