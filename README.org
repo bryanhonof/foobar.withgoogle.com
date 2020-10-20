@@ -1,5 +1,7 @@
 #+TITLE: Readme
 
+[[./assets/foobar.svg]]
+
 * foo.bar
 
 My solutions to Google's invite only code coding challenge.
